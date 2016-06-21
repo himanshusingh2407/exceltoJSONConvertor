@@ -2,7 +2,7 @@
   {
     "SrNo": 1,
     "Bank Name": "BBVA",
-    "Region": "Western Europe",
+    "Region": "EMEA",
     "Headquater": "Spain",
     "multichannelPresence": {
       "online": [
@@ -76,7 +76,7 @@
   {
     "SrNo": 2,
     "Bank Name": "Barclays",
-    "Region": "Western Europe",
+    "Region": "EMEA",
     "Headquater": "UK",
     "multichannelPresence": {
       "online": [
@@ -128,7 +128,8 @@
         "Transport for London"
       ],
       "timeline": [
-        "2014 $$Launched fintech start-up called Accelerator, a three-month intensive programme to support new businesses and mould them to create innovative solutions in fintech, present in UK, US, Africa and Israel $$Barclaycard acquired Logic Group in Sep '14 to enable payments customers globally to access wider suite of innovative products and services, including The Logic Group’s transaction processing capabilities from multiple sales channels, through a single platform $$Collaborated with Transport for London (TfL) which, in Sep '14, enabled TfL to accept any contactless card or device for payment across the whole of London’s transport network",
+        "2014 $$Launched fintech start-up called Accelerator, a three-month intensive programme to support new businesses and mould them to create innovative solutions in fintech",
+        " present in UK, US, Africa and Israel $$Barclaycard acquired Logic Group in Sep '14 to enable payments customers globally to access wider suite of innovative products and services, including The Logic Group’s transaction processing capabilities from multiple sales channels, through a single platform $$Collaborated with Transport for London (TfL) which, in Sep '14, enabled TfL to accept any contactless card or device for payment across the whole of London’s transport network",
         " 2015 $$Partnered with SunGard in Mar '15 to develop operations utility in investment banking",
         " 2016 $$ Launched Eagle Labs, a store designed to support fast-growing businesses and entrepreneurs $$Partnered with UK Trade & Investment to create Barclays Business Abroad, to provide package of benefits to corporate customers to support international trade"
       ]
@@ -149,7 +150,7 @@
   {
     "SrNo": 3,
     "Bank Name": "Akbank",
-    "Region": "EEMA",
+    "Region": "EMEA",
     "Headquater": "Turkey",
     "multichannelPresence": {
       "online": [
@@ -211,7 +212,7 @@
   {
     "SrNo": 4,
     "Bank Name": "ING",
-    "Region": "Western Europe",
+    "Region": "EMEA",
     "Headquater": "Netherlands",
     "multichannelPresence": {
       "online": [
@@ -314,8 +315,8 @@
   },
   {
     "SrNo": 5,
-    "Bank Name": "Nykredit",
-    "Region": "Western Europe",
+    "Bank Name": "Nykerdit",
+    "Region": "EMEA",
     "Headquater": "Denmark",
     "multichannelPresence": {
       "online": [
@@ -476,7 +477,8 @@
         "Baidu Online Network Technology"
       ],
       "timeline": [
-        "2015 $$ Partnered with Chinese property deveopers in building business pattern of \"selecting houses and applying for mortgages online\" and recovered a sales of <b>  RMB 22BN </b> $$ Established partnership with Baidu Online Network Technology , world’s largest Chinese search engine to offer services in the area of Internet finance "
+        "2015 $$ Partnered with Chinese property deveopers in building business pattern of \"selecting houses and applying for mortgages online\" and recovered a sales of <b>  RMB 22BN </b> ",
+        " Established partnership with Baidu Online Network Technology , world’s largest Chinese search engine to offer services in the area of Internet finance "
       ]
     },
     "impact": [
@@ -497,7 +499,7 @@
   {
     "SrNo": 8,
     "Bank Name": "Bank of America",
-    "Region": "North America",
+    "Region": "Americas",
     "Headquater": "US",
     "multichannelPresence": {
       "online": [
@@ -570,7 +572,7 @@
   {
     "SrNo": 9,
     "Bank Name": "Key Corp",
-    "Region": "North America",
+    "Region": "Americas",
     "Headquater": "US",
     "multichannelPresence": {
       "online": [
@@ -603,7 +605,8 @@
         0
       ],
       "timeline": [
-        "2015 $$Aptexx Inc., a provider of payment and property management software$$ helps in providing property owners and managers with a centralized, mobile-first solution$$Formed partnerships with AvidXchange and uses its software platform to digitize paper invoices and will allow key's clients to transform the invoicing to payment process with end-to-end digital capabilities",
+        "2015 $$Aptexx Inc., a provider of payment and property management software",
+        " helps in providing property owners and managers with a centralized, mobile-first solution$$Formed partnerships with AvidXchange and uses its software platform to digitize paper invoices and will allow key's clients to transform the invoicing to payment process with end-to-end digital capabilities",
         " 2014$$Invested in OnDeck,  an alternative lending company that provides working capital and loans to small businesses",
         " 2013 $$Partnered with Merkle, a customer relationship marketing (CRM) firm to launch the development and execution of trigger and acquisition programs$$ Partnership with Cognizant for providing innovative solutions to help the Key Technology & Operations (KTO) group within KeyCorp to enhance product development and utility"
       ]
@@ -623,7 +626,7 @@
   {
     "SrNo": 10,
     "Bank Name": "TD Bank",
-    "Region": "North America",
+    "Region": "Americas",
     "Headquater": "Canada",
     "multichannelPresence": {
       "online": [
@@ -683,76 +686,45 @@
     "LastUpdated": "May, 2016"
   },
   {
-    "SrNo": 11,
-    "Bank Name": "Itau",
-    "Region": "Latin America",
-    "Headquater": "Brazil",
+    "SrNo": 0,
+    "Bank Name": 0,
+    "Region": 0,
+    "Headquater": 0,
     "multichannelPresence": {
       "online": [
-        "Active digital banking customers ( as Q1'2016): 11.9 million ",
-        "  Personnalité Digital,  client relationship model services provided exclusively online ",
-        " Uniclass Digital,  a new platform through which relationship managers remotely meet the needs of clients ",
-        " Improved the electronic payments platform by offering acquisition service and antifraud gateway through e-REDE ",
-        " Remote banking capabilities: Customers have the  ability to verify statements and perform transactions online or over the phone"
+        0
       ],
       "mobile": [
-        "Active mobile users (as of Q1'2016) : 6.8 million ",
-        " Launched Itaú tokpag App, an app that transfers money using the mobile phone number safely and quickly within 10 secs ",
-        "  Mobile app allows users to make transfers to other banks and interact via message"
+        0
       ],
       "branch": [
-        "Increase in Digital branch: 108 in Mar'16 from 34 in Mar'15, 228% increase ",
-        " Decrease in Traditional branches: 5% cut (Mar'14-15) ",
-        " Redesigned ATM networks to make them  fast and intuitive with smaller and more simplified screens ",
-        " A pilot project applied to 13 branches to review customer service, infrastructure and communication models"
+        0
       ],
-      "facebook": "Facebook followers (as of Dec 2015) - 77,67,633",
-      "twitter": "Twitter followers (as of Dec 2015) - 6,00,002",
-      "youtube": "All time Youtube views (as of Dec 2015) -   1,171,358",
+      "facebook": 0,
+      "twitter": 0,
+      "youtube": 0,
       "socialPonits": [
-        "Uniclass, Personnalité and Corporate webinars – live events on the Internet focusing financial education: an Itaú executive officer answers questions from viewers",
-        " 23 broadcasts with 10,400 live accesses + 300,000 YouTube views ",
-        " Facebook page deals with a huge variety of topics targeting a quite young audience, set up an Instagram-based contest to give free tickets for the Rock in Rio festival ",
-        " Created a custom design project offering the most viewed videos by Brazilian Internet with over 18K subscribers on the channel",
-        " automatic tool and the information comes directly from the YouTube API"
+        0
       ]
     },
     "internalCapabilities": [
-      " Invested $11.1 billion to improve operational efficiency through technology investments ",
-      " Data center boosts its capacity to handle transactions by 25 times  and control costs ",
-      " Large processing capacity with the flexibility to grow, supported by the new data center CTMM ",
-      " Launched tech hub Cubo, a hub for tech startups in Brazil in 2015"
+      0
     ],
     "strategicPartnerships": {
       "partnerList": [
-        "maxiPago! ",
-        " Germalto ",
-        " TIM ",
-        " Huge"
+        0
       ],
       "timeline": [
-        "2014 $$Acquired maxiPago!, a Brazilian electronic payment means company focused on e-commerce, for purposes of improving account safety and convenience to our customers",
-        " 2013 $$ Partnership with Germalto and TIM to launch Brazil's First Pilot Program for NFC Payments ",
-        " 2012 $$Partnered with Huge to improve the digital experience of customers and redesigned its site to help customers better manage their financial lives"
+        0
       ]
     },
     "impact": [
-      " Digital channel represent 60% of total client transactions",
-      " 40% of client base uses Digital channel ",
-      " IT investments comprised over 78% of total investments planned for the 2012-2015 period ",
-      " Over 400,000 cards sold online and 2 MN card transactions through mobile phones ",
-      " Over 1 MN customer use Tokpag ",
-      " 0.38% click efficiency against market average of 0.10% ",
-      " 30,000 users per month for the new Itaú and Itaú Personnalité iPadapps ",
-      " 125,000 customers served by the Personnalité segment’s ‘digital branch’ First pension plan ",
-      "  Itaú Empresas Digital for companies cut down the contracting process from 14 stages 2 days process to 3 stages online process",
-      " Contracting through digital increased to 97% in 1'16 from 85%"
+      0
     ],
     "aspiration": [
-      "Expects to increase the volume of digital transaction to 70-75% in 2016 ",
-      " New data center will allow that number to attain 35 BN transaction processing in 2016 up from 31 BN in 2015"
+      0
     ],
-    "LastUpdated": "May, 2016"
+    "LastUpdated": 0
   },
   {
     "SrNo": 0,
@@ -784,7 +756,8 @@
         0
       ],
       "timeline": [
-        0
+        "Note:Timeline format should be 20XX $$Point 1 $$Point2 ",
+        " 20XX $$Point 1 $$Point 2"
       ]
     },
     "impact": [
