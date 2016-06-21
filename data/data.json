@@ -1,0 +1,106 @@
+[
+  {
+    "Bank Name": "BBVA",
+    "Region": "EMEA",
+    "Headquater": "Spain",
+    "multichannelPresence_online": [
+      "First line",
+      " First bullet",
+      " second bullet point."
+    ],
+    "multichannelPresence_mobile": [
+      "First line",
+      " First bullet",
+      " Second bullet point."
+    ],
+    "multichannelPresence_branch": [
+      "First line",
+      " First bullet",
+      " second bullet point."
+    ],
+    "multichannelPresence_socialLink": [
+      "Facebook line",
+      " Twitter line",
+      " YouTube line",
+      0
+    ],
+    "multichannelPresence_socialPonits": [
+      "First bullet",
+      " second bullet point."
+    ],
+    "internalCapabilities": [
+      "First bullet",
+      " second bullet point."
+    ],
+    "strategicPartnerships_bankList": [
+      "Bank Name1",
+      " Bank Name2"
+    ],
+    "strategicPartnerships_timeline": [
+      "Year one data",
+      " Year two data"
+    ],
+    "impact": [
+      "Level1 Bullet",
+      " Level1 Bullet",
+      " Level1 Bullet $$Level2 Bullet $$Level2 Bullet",
+      " Level1 Bullet"
+    ],
+    "aspiration": [
+      "Bullet1 heading $$Bullet Description",
+      " Bullet2 heading $$Bullet Description "
+    ]
+  },
+  {
+    "Bank Name": "Bank2",
+    "Region": "EMEA",
+    "Headquater": "Spain",
+    "multichannelPresence_online": [
+      "First line",
+      " First bullet",
+      " second bullet point."
+    ],
+    "multichannelPresence_mobile": [
+      "First line",
+      " First bullet",
+      " Second bullet point."
+    ],
+    "multichannelPresence_branch": [
+      "First line",
+      " First bullet",
+      " second bullet point."
+    ],
+    "multichannelPresence_socialLink": [
+      "Facebook line",
+      " Twitter line",
+      " YouTube line",
+      0
+    ],
+    "multichannelPresence_socialPonits": [
+      "First bullet",
+      " second bullet point."
+    ],
+    "internalCapabilities": [
+      "First bullet",
+      " second bullet point."
+    ],
+    "strategicPartnerships_bankList": [
+      "Bank Name1",
+      " Bank Name3"
+    ],
+    "strategicPartnerships_timeline": [
+      "Year one data",
+      " Year two data"
+    ],
+    "impact": [
+      "Level1 Bullet",
+      " Level1 Bullet",
+      " Level1 Bullet $$Level2 Bullet $$Level2 Bullet",
+      " Level1 Bullet"
+    ],
+    "aspiration": [
+      "Bullet1 heading $$Bullet Description",
+      " Bullet2 heading $$Bullet Description "
+    ]
+  }
+]

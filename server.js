@@ -22,7 +22,7 @@ app.post('/uploadExcel',function(req,res){
     }
     res.end("File is uploaded");
     convertExcel = require('excel-as-json').processFile;
-    convertExcel('./uploads/data.xlsx', 'data.json');
+    convertExcel('./uploads/data.xlsx', './data/data.json');
     console.log('Excel converted successfully');
   });
 });
