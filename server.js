@@ -6,10 +6,10 @@ var storage =   multer.diskStorage({
     callback(null, './uploads');
   },
   filename: function (req, file, callback) {
-    callback(null, 'sample-data.xlsx');
+    callback(null, 'data.xlsx');
   }
 });
-var upload = multer({ storage : storage}).single('userPhoto');
+var upload = multer({ storage : storage}).single('updatedExcel');
 
 app.get('/',function(req,res){
   res.sendFile(__dirname + "/index.html");
@@ -22,7 +22,7 @@ app.post('/uploadExcel',function(req,res){
     }
     res.end("File is uploaded");
     convertExcel = require('excel-as-json').processFile;
-    convertExcel('./uploads/sample-data.xlsx', 'sample-data.json');
+    convertExcel('./uploads/data.xlsx', 'data.json');
     console.log('Excel converted successfully');
   });
 });
